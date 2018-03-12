@@ -1,0 +1,36 @@
+body{
+  background-color: grey;
+  margin: auto;
+  width: 70%;
+  height: 700px;
+}
+
+
+
+}
+
+#menu
+{
+  height: 10%;
+  background-color: rgb (50, 50, 120);
+
+}
+
+#menu a 
+{
+  margin-top: 2%;
+  margin-left: 7%;
+  display:inline-block;;
+  border-style: solid;
+  width: 15%;
+  border-radius: 0px;
+  text-align: center;
+  text-decoration: none;
+
+}
+#menu a:hover
+{
+  box-shadow: 10px 10px 5px white;
+  color:white;
+  cursor: grabbing;
+}
